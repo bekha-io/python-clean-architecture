@@ -1,0 +1,7 @@
+
+
+*.idea
+*__pycache__
+*.sql
+*.db
+*.sqlite3
